@@ -1,0 +1,612 @@
+[
+  {
+    "titulo": "Prestiños",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Un dulce frito tradicional, similar a un buñuelo, que se sirve bañado en miel de chancaca o espolvoreado con azúcar.",
+    "contexto_cultural": "Se consume como postre o antojo, y es un dulce emblemático que se ofrece a los visitantes en ferias y festividades.",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Ciudad de Huánuco y valles",
+    "significado": "Símbolo de la dulzura y la hospitalidad huanuqueña; es un elemento cultural clave mencionado por los propios locales."
+  },
+  {
+    "titulo": "Pachamanca Huanuqueña",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Plato emblemático que combina diversas carnes (res, carnero, cerdo), papas y hierbas, cocinado lentamente bajo tierra mediante piedras calientes.",
+    "contexto_cultural": "Es un plato ceremonial y festivo, preparado para celebraciones comunitarias y familiares importantes. Requiere un esfuerzo colectivo.",
+    "periodo_historico": "Prehispánico - Presente",
+    "ubicacion": "Región andina de Huánuco",
+    "significado": "Representa el vínculo sagrado con la Pachamama (Madre Tierra), que actúa como un horno natural y fuente de los alimentos."
+  },
+  {
+    "titulo": "Juane Huanuqueño",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Plato que combina arroz y presas de pollo o gallina, sazonado con especias locales (como la cúrcuma) y envuelto en hojas de bijao para su cocción al vapor.",
+    "contexto_cultural": "Consumido en celebraciones y festividades, especialmente durante la Fiesta de San Juan. Es una variante local del juane amazónico.",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Huánuco (zona de selva y valles)",
+    "significado": "Fusión de ingredientes y técnicas que otorgan un aroma y sabor únicos, diferenciándolo de otras variantes regionales."
+  },
+  {
+    "titulo": "Mondongo Huanuqueño",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Guiso robusto y tradicional a base de mote (maíz pelado) y diversas carnes (incluyendo panza de res), cocido lentamente por horas.",
+    "contexto_cultural": "Plato festivo, a menudo servido en celebraciones, mercados de fin de semana o como un plato principal en ocasiones especiales.",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Ciudad de Huánuco y sierra",
+    "significado": "Representa la tradición y la historia local a través de su cuidadosa y prolongada preparación, que combina sabores intensos."
+  },
+  {
+    "titulo": "Sopa de Mote (Patasca)",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Sopa reconfortante y nutritiva hecha a base de mote (maíz) cocido hasta reventar, con carne de res o carnero.",
+    "contexto_cultural": "Consumo popular, a menudo en las mañanas como desayuno reconstituyente o después de las festividades.",
+    "periodo_historico": "Prehispánico - Presente",
+    "ubicacion": "Región andina de Huánuco",
+    "significado": "Símbolo de la cocina andina básica y nutritiva, donde el maíz es el ingrediente central y fuente de energía."
+  },
+  {
+    "titulo": "Shacta (Aguardiente de Caña)",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Bebida emblemática de Huánuco. Es un aguardiente destilado de jugo de caña de azúcar, parte de un sistema de producción tradicional.",
+    "contexto_cultural": "Se consume socialmente en festividades y se utiliza como medicina tradicional. Tiene su propio \"Día Regional de la Shacta\" (segundo sábado de septiembre).",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Fundos de Huánuco (Cachigaga, Huaycoto, Vichaycoto, Chasqui)",
+    "significado": "Es Patrimonio Cultural de la Nación. Simboliza la identidad regional vinculada a la historia de las haciendas cañeras."
+  },
+  {
+    "titulo": "Chunchulín (Tradicional)",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Plato, hoy casi extinguido, a base de intestino delgado de carnero, aderezado y frito al carbón. Se servía con papa sancochada.",
+    "contexto_cultural": "Era una comida popular de antaño, vendida en carretillas (ej. esquina del cine Huánuco). Parte del \"tren de los recuerdos\".",
+    "periodo_historico": "Republicano (Siglo XX)",
+    "ubicacion": "Ciudad de Huánuco",
+    "significado": "Representa la memoria gastronómica y la cocina popular urbana en vías de desaparición; un sabor de nostalgia."
+  },
+  {
+    "titulo": "Sango",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Plato emblemático de receta ancestral, preparado con harina de maíz de cancha tostado (molido en batán), manteca de chancho y trozos de chicharrón.",
+    "contexto_cultural": "Se consumía tradicionalmente en el lonche o la cena, preparado por las \"abuelitas de la casa\".",
+    "periodo_historico": "Prehispánico - Presente",
+    "ubicacion": "Valles de Huánuco",
+    "significado": "Símbolo de la cocina casera ancestral y la transmisión de recetas de generación en generación, usando técnicas como el batán."
+  },
+  {
+    "titulo": "Humita Salada",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Delicia preparada en casa a base de maíz fresco (choclo) molido en batán, mezclado con sal y queso, y cocido al vapor envuelto en su propia p'anqa (hoja).",
+    "contexto_cultural": "Se consume en época de cosecha de choclo, tradicionalmente en el lonche, acompañado de café de huerta.",
+    "periodo_historico": "Prehispánico (Chupachos) - Presente",
+    "ubicacion": "Valle del Huallaga",
+    "significado": "Conexión directa con el pasado pre-inca y el ciclo agrícola del maíz. Su sabor es considerado único por el choclo de la región."
+  },
+  {
+    "titulo": "Picante de Cushuro",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Plato a base de Nostoc sphaericum, una cianobacteria de lagunas altoandinas llamada \"caviar andino\". Se prepara en locro o caldo.",
+    "contexto_cultural": "Consumido tradicionalmente durante la Semana Santa en las mesas familiares huanuqueñas.",
+    "periodo_historico": "Prehispánico - Presente",
+    "ubicacion": "Zonas altoandinas de Huánuco",
+    "significado": "Alimento ancestral de alto valor nutritivo. Representa la conexión con el ecosistema de las lagunas altoandinas."
+  },
+  {
+    "titulo": "Morsilla de Sangre de Chancho",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Embutido tradicional hecho con sangre de chancho, maíz molido en batán, orégano y especias, introducido en la tripa gruesa del animal.",
+    "contexto_cultural": "Asociado al ritual de la matanza del chancho (\"pishtar\"). Se cuelga sobre el fogón de leña para ahumarlo antes de consumirlo frito.",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Zonas rurales de Huánuco",
+    "significado": "Representa las tradiciones de la matanza y el aprovechamiento integral del animal, utilizando técnicas de conservación ancestrales."
+  },
+  {
+    "titulo": "Mazamorra de Calabaza",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Postre tradicional tipo mazamorra elaborado a base de calabaza, chancaca, canela y clavo de olor.",
+    "contexto_cultural": "Postre casero popular, consumido en diversas épocas del año.",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Huánuco",
+    "significado": "Parte de la repostería tradicional que aprovecha los ingredientes locales (calabaza)."
+  },
+  {
+    "titulo": "Picante de Queso",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Plato tradicional, hoy casi en desuso. Preparado en olla de barro a fuego lento, con queso fresco, manteca de chancho, chicharrón y ají mirasol.",
+    "contexto_cultural": "Plato de la cocina casera de antaño, parte de la memoria gastronómica.",
+    "periodo_historico": "Colonial - Republicano",
+    "ubicacion": "Huánuco",
+    "significado": "Representa los sabores de la cocina mestiza tradicional (queso, cerdo, ají) y el uso de técnicas de cocción lentas (olla de barro)."
+  },
+  {
+    "titulo": "Sopa de Harina de Habas",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Caldo nutritivo a base de harina de habas tostadas y molidas (a veces en batán), con un aderezo de cebolla en manteca de chancho.",
+    "contexto_cultural": "Alimento básico consumido desde épocas antiguas, servido con papa sancochada y ají.",
+    "periodo_historico": "Prehispánico - Presente",
+    "ubicacion": "Sierra de Huánuco",
+    "significado": "Plato fundamental de la dieta andina, que representa la nutrición basada en leguminosas locales."
+  },
+  {
+    "titulo": "Chicharrones de Chancho (Estilo Huanuqueño)",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Carne de chancho sancochada en olla de barro y luego frita en su propia manteca hasta que el cascarón (pellejo) esté crocante.",
+    "contexto_cultural": "Plato festivo y de consumo en picanterías, servido con mote, cancha, sarsa criolla y café de huerta.",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Huánuco",
+    "significado": "La técnica (olla de barro, leña, propia manteca) define la identidad de este plato, diferenciándolo de otras versiones."
+  },
+  {
+    "titulo": "Ocro de Gallina",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "Potaje tradicional huanuqueño, descrito como un plato emblemático junto a los prestiños.",
+    "contexto_cultural": "Se sirve en festividades y es parte de la oferta gastronómica destacada para los visitantes.",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Huánuco",
+    "significado": "Uno de los platos bandera que definen la sazón local, a base de gallina de corral."
+  },
+  {
+    "titulo": "Kotosh: Templo de las Manos Cruzadas",
+    "categoria": "Patrimonio Arqueológico",
+    "confianza": 0.85,
+    "descripcion": "Uno de los centros ceremoniales más antiguos de América. Famoso por sus relieves de barro de dos antebrazos cruzados en un templo.",
+    "contexto_cultural": "Es el principal hito arqueológico de la región, recibiendo miles de visitas. Tiene una sala de exhibición.",
+    "periodo_historico": "Período Formativo Temprano (Arcaico Tardío, 2000 a.C.)",
+    "ubicacion": "A 4 km de la ciudad de Huánuco",
+    "significado": "Considerado la \"Cuna de la Civilización Andina\". Representa el origen de la arquitectura ceremonial y la práctica religiosa compleja."
+  },
+  {
+    "titulo": "Complejo Arqueológico de Garu",
+    "categoria": "Patrimonio Arqueológico",
+    "confianza": 0.85,
+    "descripcion": "Extenso centro urbano pre-inca, considerado una sede político-administrativa de la cultura Yarowilca. Posee torreones defensivos y sectores urbanos.",
+    "contexto_cultural": "Es un destino turístico importante en la sierra alta de Huánuco, Patrimonio Cultural de la Nación.",
+    "periodo_historico": "Intermedio Tardío (Cultura Yarowilca)",
+    "ubicacion": "Provincia de Yarowilca",
+    "significado": "Símbolo del poderío y la organización social y militar de la cultura Yarowilca, la civilización pre-inca dominante de la región."
+  },
+  {
+    "titulo": "Tantamayo: \"Rascacielos\" de Piruro",
+    "categoria": "Patrimonio Arqueológico",
+    "confianza": 0.85,
+    "descripcion": "Complejo Yarowilca famoso por sus singulares edificios de piedra de varios pisos (hasta 11 metros), llamados \"rascacielos de América\".",
+    "contexto_cultural": "Forma parte de un circuito de 81 sitios arqueológicos en la zona, destacando por su arquitectura vertical.",
+    "periodo_historico": "Intermedio Tardío (Cultura Yarowilca, S. X-XIV)",
+    "ubicacion": "Provincia de Huamalíes, Tantamayo",
+    "significado": "Demostración de alta ingeniería y adaptación a la altura; símbolo de la resiliencia y capacidad constructiva defensiva de los Yarowilcas."
+  },
+  {
+    "titulo": "Castillo de Susupillo",
+    "categoria": "Patrimonio Arqueológico",
+    "confianza": 0.85,
+    "descripcion": "Edificio principal dentro del complejo de Tantamayo. Considerado el edificio prehistórico más alto de América, con 5 pisos y 16 habitaciones.",
+    "contexto_cultural": "Es el ícono más impresionante del complejo de Tantamayo.",
+    "periodo_historico": "Intermedio Tardío (Cultura Yarowilca)",
+    "ubicacion": "Tantamayo, Huamalíes",
+    "significado": "El pináculo de la ingeniería defensiva Yarowilca; un ícono de orgullo arquitectónico pre-inca regional."
+  },
+  {
+    "titulo": "Ciudadela de Japallan",
+    "categoria": "Patrimonio Arqueológico",
+    "confianza": 0.85,
+    "descripcion": "Vestigio importante que forma parte del extenso complejo arqueológico de Tantamayo.",
+    "contexto_cultural": "Parte del circuito turístico de Tantamayo.",
+    "periodo_historico": "Intermedio Tardío (Cultura Yarowilca)",
+    "ubicacion": "Tantamayo, Huamalíes",
+    "significado": "Muestra de la organización y urbanismo de la cultura Yarowilca."
+  },
+  {
+    "titulo": "Graneros de Selmín",
+    "categoria": "Patrimonio Arqueológico",
+    "confianza": 0.85,
+    "descripcion": "Estructuras de almacenamiento (colcas) que forman parte del complejo de Tantamayo.",
+    "contexto_cultural": "Parte del circuito turístico de Tantamayo.",
+    "periodo_historico": "Intermedio Tardío (Cultura Yarowilca)",
+    "ubicacion": "Tantamayo, Huamalíes",
+    "significado": "Evidencia de la organización económica y la gestión de alimentos de la cultura Yarowilca."
+  },
+  {
+    "titulo": "Sitio Arqueológico Chaupiyacu",
+    "categoria": "Patrimonio Arqueológico",
+    "confianza": 0.85,
+    "descripcion": "Sitio declarado Patrimonio Cultural de la Nación, ubicado en la zona de Tingo María.",
+    "contexto_cultural": "Zona protegida por el Ministerio de Cultura.",
+    "periodo_historico": "Prehispánico",
+    "ubicacion": "Tingo María",
+    "significado": "Representa el patrimonio arqueológico de la ceja de selva huanuqueña."
+  },
+  {
+    "titulo": "Huánuco Pampa (Qhapaq Ñan)",
+    "categoria": "Patrimonio Arqueológico",
+    "confianza": 0.85,
+    "descripcion": "Importante centro administrativo Inca, construido a lo largo del Qhapaq Ñan (Camino Inca). Destaca por su ushnu (plataforma ceremonial).",
+    "contexto_cultural": "Es la sede de la \"Fiesta del Sol\" (Inti Raymi) de Huánuco, que se celebra cada 27 de julio.",
+    "periodo_historico": "Horizonte Tardío (Inca)",
+    "ubicacion": "Provincia de Dos de Mayo",
+    "significado": "Símbolo de la presencia e importancia de Huánuco dentro de la administración del Tawantinsuyu."
+  },
+  {
+    "titulo": "Puente Calicanto",
+    "categoria": "Patrimonio Arqueológico",
+    "confianza": 0.85,
+    "descripcion": "Histórico puente republicano que cruza el río Huallaga. Construido con piedra de canto rodado y una argamasa de cal, arena y claras de huevo.",
+    "contexto_cultural": "Declarado Monumento Histórico. Es un ícono de la ciudad y un punto de encuentro.",
+    "periodo_historico": "Republicano (Inaugurado en 1884)",
+    "ubicacion": "Ciudad de Huánuco (sobre el río Huallaga)",
+    "significado": "Símbolo del orgullo cívico, la ingeniería republicana y la durabilidad. El \"mito\" de las claras de huevo es central en su identidad cultural."
+  },
+  {
+    "titulo": "Casa de la Perricholi",
+    "categoria": "Patrimonio Arqueológico",
+    "confianza": 0.85,
+    "descripcion": "Casona de estilo colonial, tradicionalmente señalada como el lugar de nacimiento de Micaela Villegas Hurtado, \"La Perricholi\".",
+    "contexto_cultural": "Es un museo de sitio que exhibe mobiliario y trajes de la época. Es un importante atractivo turístico.",
+    "periodo_historico": "Colonial (S. XVIII)",
+    "ubicacion": "Pueblo de Tomaykichwa, Ambo",
+    "significado": "Hito cultural que conecta a Huánuco con la figura mítica de \"La Perricholi\" y la historia del Virreinato del Perú."
+  },
+  {
+    "titulo": "Danza de los Negritos de Huánuco",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "La festividad más importante de Huánuco. Danza ejecutada por cofradías en adoración al Niño Jesús, con máscaras negras y trajes coloridos.",
+    "contexto_cultural": "Se baila desde la Nochebuena (24 Dic) hasta la Bajada de Reyes (19 Ene). Es Patrimonio Cultural de la Nación.",
+    "periodo_historico": "Colonial (origen) - Republicano (forma actual)",
+    "ubicacion": "Ciudad de Huánuco y provincias",
+    "significado": "Es una \"crónica viva\". Representa el sincretismo religioso y la historia de la esclavitud africana en las haciendas de Huánuco."
+  },
+  {
+    "titulo": "Danza Pallas de Obas",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Danza que representa la muerte del Inca, con dos cuadrillas (Pallas e Incas Atahualpa y Huáscar) y rukus (viejos).",
+    "contexto_cultural": "Se baila el 5 de agosto, en la festividad de la Virgen de las Nieves. Es Patrimonio Cultural de la Nación.",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Distrito de Obas, Yarowilca",
+    "significado": "Representación dramática de la caída del Tawantinsuyu; un archivo histórico vivo del trauma de la conquista."
+  },
+  {
+    "titulo": "Danza Tuy Tuy",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Danza catalogada como guerrera. Representa la historia y el folclore de la provincia de Huamalíes.",
+    "contexto_cultural": "Se baila en fiestas patronales como la Virgen de la Asunción (16 de agosto) y el Señor de Rondos (21 de septiembre).",
+    "periodo_historico": "Prehispánico - Presente",
+    "ubicacion": "Provincia de Huamalíes (Llata, Querosh)",
+    "significado": "Danza que expresa la fuerza, historia y resistencia de la identidad de la región de Huamalíes."
+  },
+  {
+    "titulo": "Danza de los Cholones de Rupa Rupa",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Danza festiva originaria de la selva alta. Los bailarines imitan movimientos de la fauna local, como monos y jaguares.",
+    "contexto_cultural": "Se baila en festivales y celebraciones de la selva. Originalmente ligada a la adoración del jaguar.",
+    "periodo_historico": "Prehispánico - Presente",
+    "ubicacion": "Provincia de Leoncio Prado (Tingo María)",
+    "significado": "Expresión de la identidad amazónica (selvática) de Huánuco y la conexión mítica con la fauna de la selva."
+  },
+  {
+    "titulo": "Danza Mama Rayhuana (Atoj Alcalde)",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Danza de origen agrícola. El personaje principal es el \"Atoj Alcalde\" (Zorro Alcalde).",
+    "contexto_cultural": "Se baila en fiestas patronales y rituales ligados a la siembra.",
+    "periodo_historico": "Prehispánico - Presente",
+    "ubicacion": "Provincia de Huamalíes (Llata, El Porvenir)",
+    "significado": "Representación ritual de la agricultura (siembra de papa) y el rol mítico del zorro (Atoj) en la cosmovisión andina."
+  },
+  {
+    "titulo": "Danza Acha Rucus (Ruku)",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Danza de \"viejos\" (Ruku). Fue declarada Patrimonio Cultural de la Nación.",
+    "contexto_cultural": "Se baila en festividades patronales.",
+    "periodo_historico": "Prehispánico - Presente",
+    "ubicacion": "Panao (Pachitea), Shayan",
+    "significado": "Danza ritual que honra a los ancianos o los antepasados, representando la sabiduría y la memoria de la comunidad."
+  },
+  {
+    "titulo": "Caballodanza",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Danza típica donde los danzantes llevan estructuras que simulan caballos.",
+    "contexto_cultural": "Se ejecuta en fiestas patronales.",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Páucar, Amarilis",
+    "significado": "Representación sincrética que fusiona la figura del caballo (español) con las tradiciones de danza andinas."
+  },
+  {
+    "titulo": "Chunguinada",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Danza de tipo satírica que parodia a las clases altas de la colonia (españoles).",
+    "contexto_cultural": "Se baila tradicionalmente durante el mes de mayo, en homenaje a la Fiesta de las Cruces.",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Huánuco (sierra)",
+    "significado": "Danza festiva que utiliza la sátira y la elegancia para representar las relaciones sociales de la época colonial."
+  },
+  {
+    "titulo": "Leyenda de La Bella Durmiente",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Mito fundacional de Tingo María. Narra la historia de la princesa Nunash, quien, huyendo de un monstruo, fue convertida en una cadena montañosa.",
+    "contexto_cultural": "Es la leyenda que da nombre e identidad a la cordillera visible desde Tingo María.",
+    "periodo_historico": "Mítico (Prehispánico)",
+    "ubicacion": "Tingo María, Leoncio Prado",
+    "significado": "Explicación cosmogónica que dota de una narrativa mítica al paisaje. La montaña es la princesa dormida."
+  },
+  {
+    "titulo": "Leyenda del Pillco Mozo",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Leyenda sobre el joven Cunyag, enamorado de la princesa Pillco Huayta, que fue convertido en una formación rocosa.",
+    "contexto_cultural": "Es el \"eterno guardián de la ciudad\", una figura rocosa visible en el cerro Marabamba.",
+    "periodo_historico": "Mítico (Prehispánico)",
+    "ubicacion": "Ciudad de Huánuco (Cerro Marabamba)",
+    "significado": "Mito que personifica el paisaje. La roca es vista como la protectora de la ciudad y eterna admiradora de la Bella Durmiente."
+  },
+  {
+    "titulo": "Leyenda del Toro de Oro de Jatun Uchcu",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Mito sobre un tesoro (un toro de oro macizo) escondido en una cueva, vigilado por el diablo o un esclavo encantado.",
+    "contexto_cultural": "Leyenda popular que advierte sobre la avaricia y los peligros de buscar tesoros ocultos (tapados).",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Cueva de Jatun Uchcu",
+    "significado": "Mito sobre tesoros escondidos y los peligros espirituales que los custodian, común en zonas mineras andinas."
+  },
+  {
+    "titulo": "Leyenda del Chullachaqui",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Mito de la selva sobre un espíritu o duende con pies desiguales que engaña a las personas en el bosque, haciéndoles perder el rumbo.",
+    "contexto_cultural": "Narración oral común en la selva de Huánuco para explicar las desapariciones o advertir sobre los peligros del bosque.",
+    "periodo_historico": "Mítico (Amazónico)",
+    "ubicacion": "Selva de Huánuco (Tingo María)",
+    "significado": "Personificación de los peligros de la selva y la naturaleza impredecible del bosque."
+  },
+  {
+    "titulo": "Aniversario de Huánuco (Semana Turística)",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Celebración principal de la ciudad por su fundación española. Incluye desfiles, ferias, conciertos y actividades culturales.",
+    "contexto_cultural": "Del 12 al 18 de agosto, siendo el día central el 15 de agosto.",
+    "periodo_historico": "Republicano - Presente",
+    "ubicacion": "Ciudad de Huánuco",
+    "significado": "Principal fiesta cívica que une a la población y atrae el turismo, reafirmando la identidad local."
+  },
+  {
+    "titulo": "Fiesta del Sol",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Festividad de reivindicación de la identidad Inca, similar al Inti Raymi.",
+    "contexto_cultural": "Se celebra el 27 de julio.",
+    "periodo_historico": "Contemporáneo (Neo-Inca)",
+    "ubicacion": "Complejo Arqueológico de Huánuco Pampa",
+    "significado": "Revalorización del pasado Inca de la región, utilizando el centro administrativo de Huánuco Pampa como escenario auténtico."
+  },
+  {
+    "titulo": "Carnaval Huanuqueño",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Celebración con desfiles, comparsas, carros alegóricos y el tradicional \"corta árbol\" o \"Yunsa\".",
+    "contexto_cultural": "Se celebra en febrero o marzo (fecha movible).",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Todo el departamento",
+    "significado": "Período de fiesta popular, juego y rituales de cortejo y celebración comunitaria (Yunsas)."
+  },
+  {
+    "titulo": "Semana Santa",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Conmemoración religiosa con procesiones y meditación. En algunas zonas se consumen platos específicos (como el Picante de Cushuro).",
+    "contexto_cultural": "Marzo o abril (fecha movible).",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Todo el departamento",
+    "significado": "Importante expresión de la fe católica y el sincretismo, con costumbres locales (gastronomía) asociadas."
+  },
+  {
+    "titulo": "Festividad del Señor de Burgos",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Importante festividad religiosa en honor al \"Rey y Patrono de Huánuco\".",
+    "contexto_cultural": "Se celebra del 27 al 29 de octubre, con procesiones, fiestas y bailes.",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Ciudad de Huánuco",
+    "significado": "Una de las mayores expresiones de devoción católica en la ciudad, que unifica a los barrios."
+  },
+  {
+    "titulo": "Fiesta de San Juan",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Festividad principal de la selva peruana, adoptada en la selva huanuqueña (Tingo María). Se celebra con \"Juanes\" y baños rituales en los ríos.",
+    "contexto_cultural": "2025-06-24",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Tingo María y selva de Huánuco",
+    "significado": "Celebración de la identidad amazónica, el agua (ríos) y la gastronomía local (Juanes)."
+  },
+  {
+    "titulo": "Festividad del Señor de Chacos",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Fiesta patronal en honor al Señor de Chacos, patrón de San Rafael.",
+    "contexto_cultural": "2025-05-01",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "San Rafael, Provincia de Ambo",
+    "significado": "Expresión de devoción patronal en la provincia de Ambo."
+  },
+  {
+    "titulo": "Festividad de la Cruz de Mayo",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Celebración religiosa y popular en honor a la Santa Cruz.",
+    "contexto_cultural": "2025-05-03",
+    "periodo_historico": "Colonial - Presente",
+    "ubicacion": "Ciudad de Huánuco",
+    "significado": "Festividad que combina la devoción cristiana con danzas (como la Chunguinada) y celebraciones populares."
+  },
+  {
+    "titulo": "Personaje: Daniel Alomía Robles",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Musicólogo y compositor huanuqueño, autor de la zarzuela \"El Cóndor Pasa\", cuya melodía es considerada la más universal de la música andina.",
+    "contexto_cultural": "Héroe cultural de Huánuco.",
+    "periodo_historico": "Republicano (1871-1942)",
+    "ubicacion": "Huánuco (origen)",
+    "significado": "Héroe cultural. Representa la identidad musical de Huánuco y su aporte de la melodía andina más reconocida en el mundo."
+  },
+  {
+    "titulo": "Personaje: Hermilio Valdizán",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Destacado médico y psiquiatra. Es considerado el \"Padre de la Psiquiatría Peruana\". Investigó la medicina popular y el folclore.",
+    "contexto_cultural": "Héroe cívico e intelectual.",
+    "periodo_historico": "Republicano (1885-1929)",
+    "ubicacion": "Huánuco (origen)",
+    "significado": "Héroe cívico. Representa el aporte de Huánuco a la ciencia, la medicina y el estudio de la cultura popular peruana."
+  },
+  {
+    "titulo": "Personaje: Leoncio Prado Gutierrez",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Héroe militar huanuqueño. Luchó en la Guerra de Independencia de Cuba y en la Guerra del Pacífico, siendo fusilado en Huamachuco.",
+    "contexto_cultural": "Héroe cívico y militar.",
+    "periodo_historico": "Republicano (1853-1883)",
+    "ubicacion": "Huánuco (origen)",
+    "significado": "Héroe cívico. Encarna el valor, el sacrificio y el heroísmo huanuqueño a nivel nacional e internacional."
+  },
+  {
+    "titulo": "Personaje: Felipe Guamán Poma de Ayala",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Cronista indígena, autor de \"Nueva Crónica y Buen Gobierno\", una enciclopedia ilustrada de la historia andina y la colonia.",
+    "contexto_cultural": "Se presume que nació en Wanuco Marka (Huánuco Pampa).",
+    "periodo_historico": "Colonial (c. 1535-1616)",
+    "ubicacion": "Huánuco Pampa (presunto origen)",
+    "significado": "Héroe cultural. Representa la raíz histórica y la voz indígena de la región, siendo el autor de la crónica más importante de la era colonial."
+  },
+  {
+    "titulo": "Personaje: Micaela Villegas \"La Perricholi\"",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Famosa actriz y cantante de la época colonial, conocida por su ingenio, belleza y su relación con el Virrey Manuel de Amat.",
+    "contexto_cultural": "Su figura es un ícono cultural.",
+    "periodo_historico": "Colonial (1748–1819)",
+    "ubicacion": "Tomaykichwa (origen)",
+    "significado": "Ícono cultural del mestizaje, el ingenio y la influencia de la mujer huanuqueña en la historia del Virreinato."
+  },
+  {
+    "titulo": "Personaje: José Varallanos",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Destacado historiador, jurista y escritor. Autor de la obra cumbre \"Historia de Huánuco\".",
+    "contexto_cultural": "Intelectual huanuqueño.",
+    "periodo_historico": "Republicano (1907-1997)",
+    "ubicacion": "Huánuco",
+    "significado": "Héroe cívico. Considerado el más importante historiador de Huánuco y un pilar de la identidad regional."
+  },
+  {
+    "titulo": "Personaje: Javier Pulgar Vidal",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Eminente geógrafo, autor de la tesis \"Las Ocho Regiones Naturales del Perú\", que redefinió la geografía peruana.",
+    "contexto_cultural": "Héroe cívico e intelectual.",
+    "periodo_historico": "Republicano (1913-2003)",
+    "ubicacion": "Huánuco (origen)",
+    "significado": "Héroe cívico. Representa el aporte de Huánuco al entendimiento de la geografía y la diversidad del Perú."
+  },
+  {
+    "titulo": "Pacha-muña (Hedeoma mandoniana Wedd)",
+    "categoria": "Flora Medicinal",
+    "confianza": 0.85,
+    "descripcion": "Planta medicinal de uso ancestral. Es una hierba aromática consumida en infusión.",
+    "contexto_cultural": "Usada por los pobladores rurales para sanar problemas digestivos (diarreas, acidez, cólicos) y enfermedades respiratorias (gripe, asma).",
+    "periodo_historico": "Prehispánico - Presente",
+    "ubicacion": "Zonas rurales de Huánuco (ej. Antajirca, Churubamba)",
+    "significado": "Herencia cultural de alto valor medicinal. Representa los saberes ancestrales sobre botánica, validados por la presencia de flavonoides y pulegone."
+  },
+  {
+    "titulo": "Molle (Schinus molle)",
+    "categoria": "Flora Medicinal",
+    "confianza": 0.85,
+    "descripcion": "Árbol nativo que crece en los valles. Sus hojas y corteza tienen propiedades medicinales.",
+    "contexto_cultural": "Se usa tradicionalmente (a menudo soasado) para aliviar dolores de garganta, muelas, piernas y problemas bronquiales. También sirve como repelente.",
+    "periodo_historico": "Prehispánico - Presente",
+    "ubicacion": "Valles de Huánuco",
+    "significado": "Parte integral del paisaje y la farmacopea tradicional huanuqueña."
+  },
+  {
+    "titulo": "Eucalipto (Eucalyptus globulus)",
+    "categoria": "Flora Medicinal",
+    "confianza": 0.85,
+    "descripcion": "Árbol introducido que se ha naturalizado en el paisaje andino de Huánuco. Sus hojas son altamente aromáticas.",
+    "contexto_cultural": "Usado ampliamente en la medicina casera, especialmente por madres, para el tratamiento de infecciones respiratorias agudas (IRAs) mediante infusiones o vapores.",
+    "periodo_historico": "Republicano - Presente",
+    "ubicacion": "Sierra de Huánuco (ej. Margos)",
+    "significado": "Planta adaptada que se ha vuelto fundamental en la medicina casera para afecciones respiratorias, siendo un pilar de la etnobotánica local."
+  },
+  {
+    "titulo": "Hoja de Coca (Uso Ancestral)",
+    "categoria": "Flora Medicinal",
+    "confianza": 0.85,
+    "descripcion": "Llamada Kuka en quechua. Es considerada una \"planta maestra y madre espiritual\" en la cosmovisión andina.",
+    "contexto_cultural": "Se utiliza en el chacchado (masticado ritual) para obtener energía en el trabajo agrícola y minero, y como \"ofrenda\" en ceremonias.",
+    "periodo_historico": "Prehispánico - Presente",
+    "ubicacion": "Región andina de Huánuco",
+    "significado": "Hoja sagrada, elemento central de la cosmovisión andina que conecta al individuo con lo espiritual y le da energía para el trabajo."
+  },
+  {
+    "titulo": "Uña de Gato (Uncaria tomentosa)",
+    "categoria": "Flora Medicinal",
+    "confianza": 0.85,
+    "descripcion": "Planta nativa de la Amazonía peruana, incluyendo la selva de Huánuco. Es una liana trepadora.",
+    "contexto_cultural": "Se procesa comercialmente (cápsulas, harinas, licores) y se usa tradicionalmente por sus propiedades antiinflamatorias y para reforzar el sistema inmune.",
+    "periodo_historico": "Prehispánico - Presente",
+    "ubicacion": "Zonas amazónicas de Huánuco",
+    "significado": "Recurso valioso de la biodiversidad amazónica de Huánuco, con reconocimiento nacional e internacional."
+  },
+  {
+    "titulo": "Sangre de Grado (Croton lechleri)",
+    "categoria": "Flora Medicinal",
+    "confianza": 0.85,
+    "descripcion": "Látex de color rojo oscuro que se extrae de un árbol de la Amazonía. Se comercializa bajo marcas locales.",
+    "contexto_cultural": "Usado tradicionalmente por sus potentes propiedades cicatrizantes (para heridas) y antibacterianas (contra H. pylori, según estudios).",
+    "periodo_historico": "Prehispánico - Presente",
+    "ubicacion": "Zonas amazónicas de Huánuco",
+    "significado": "Medicina tradicional amazónica cuya eficacia ha sido destacada por estudios científicos, validando el conocimiento ancestral."
+  },
+  {
+    "titulo": "Cultivo de Coca (Fenómeno Social)",
+    "categoria": "Leyendas y Tradiciones",
+    "confianza": 0.85,
+    "descripcion": "Huánuco (especialmente el Alto Huallaga) es un eje de producción de hoja de coca para fines ilícitos, sujeto a erradicación por el CORAH.",
+    "contexto_cultural": "Este cultivo define la economía, los conflictos sociales y la violencia en la región del Alto Huallaga.",
+    "periodo_historico": "Contemporáneo (S. XX-XXI)",
+    "ubicacion": "Alto Huallaga",
+    "significado": "Un elemento cultural socio-económico complejo y conflictivo, que define la identidad moderna de una parte de Huánuco, en tensión directa con el uso ancestral."
+  },
+  {
+    "titulo": "Humita",
+    "categoria": "Gastronomía",
+    "confianza": 0.85,
+    "descripcion": "masa echa de maíz choclo antes de que madure, cin sal o con azúcar",
+    "contexto_cultural": "plato para lonches",
+    "periodo_historico": "Época prehistórica",
+    "ubicacion": "Huánuco, Perú",
+    "significado": "buena comida"
+  }
+]

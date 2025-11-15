@@ -1,0 +1,18 @@
+💡 CÓMO MEJORAR AÚN MÁS LA IDENTIFICACIÓN
+Estrategia a largo plazo:
+Recopilar más datos de ciudadanos de Huánuco:
+
+Encuestas: "¿Qué plato/tradición consideras huanuqueño?"
+Fotos anotadas con pistas visuales
+Crear un dataset de entrenamiento fino (fine-tuning):
+
+100+ imágenes anotadas de elementos culturales
+Fine-tune GPT-4o-mini con tus casos específicos
+Sistema de retroalimentación en producción:
+
+Botón "Esto SÍ es de Huánuco" cuando GPT se equivoca
+Almacenar correcciones y actualizar elementos_huanuco.json
+Usar embeddings para búsqueda semántica:
+
+Convertir descripciones a embeddings (text-embedding-3-small)
+Buscar similitud coseno en lugar de texto puro

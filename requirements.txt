@@ -1,0 +1,11 @@
+Django==4.2.7
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+openai
+Pillow==11.3.0
+google-auth
+python-environ
+requests
+pandas
+openpyxl
+mysqlclient
